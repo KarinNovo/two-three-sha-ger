@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@gr!b9rrt9y!^b8)ucf(s^gycz66du0rea41v3z16fe_z1n67#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.2-3-sha-ger.com', '2-3-sha-ger.com', 'localhost', '127.0.0.1']
 AUTH_USER_MODEL = 'hasbara.User'
 
 # Application definition
