@@ -369,10 +369,7 @@ export const posts = [
     filename: "49.png",
     title: "Choose Your Defense Shield #2-3-sha-ger #StandWithIsrael #Shieldren #WarCrime",
     tags: ["StandWithIsrael", "Shieldren", "WarCrime"],
-  },
-{
-
-  
+  }, 
 {
     filename: "100.jpg",
     title: "UN secretary general, UNICEF and United Nations do not care about Israeli children. #2-3-sha-ger #WorldChildrensDay #standwithisrael Credit:@ellakenan",
