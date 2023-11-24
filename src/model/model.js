@@ -447,7 +447,7 @@ export const posts = [
 
 
 {
-    filename: "404.jpg",
+    filename: "404.jpg.jpg",
     title: "Who is the villain? #2-3-sha-ger Credit: @yosephhaddad",
     tags: ["StandWithIsrael", "TheWestIsNext", "Propagaza", "YosephHaddad"],
   },
