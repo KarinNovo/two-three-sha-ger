@@ -525,6 +525,11 @@ export const posts = [
     title: "Stop Antesimitism Credit:@noatishbi",
     tags: ["StandWithIsrael", "ProPalestineRally"],
   },
+  {
+    filename: "86.jpg",
+    title: "Beautiful young lady in Tel Aviv standing up for her country Israel. Why do we never hear of Arabs like her? The media only showcases anti-Jew Arabs #StandWithIsrael. Credit:@Time To Stand Up For Israel",
+    tags: ["StandWithIsrael", "TimeToStandUpForIsrael"],
+  },
 ];
 export const getTags = () => {
   const allTags = _.uniq(_.flatMap(posts.map((post) => post.tags)));
