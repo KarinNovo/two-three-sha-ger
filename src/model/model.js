@@ -324,6 +324,54 @@ export const posts = [
     title: "World’s Twisted Point of View #2-3-sha-ger",
     tags: ["HamasisISIS", , "standwithisrael"],
   },
+  {
+    filename: "43.png",
+    title: "We Are Not Going ANYWHERE #2-3-sha-ger #StandWithIsrael #StandWithJews",
+    tags: ["StandWithIsrael", "StandWithJews"],
+  },
+
+
+{
+    filename: "44.png",
+    title: "Hummus Is Better #2-3-sha-ger #StandWithIsrael #HamasIsCancer",
+    tags: ["StandWithIsrael", "HamasIsCancer"],
+  },
+
+
+{
+    filename: "45.png",
+    title: "Gen Z Wake Up! #2-3-sha-ger #StandWithIsrael #tError",
+    tags: ["StandWithIsrael", "tError"],
+  },
+
+
+{
+    filename: "46.png",
+    title: "Stop This Hypocrisy #2-3-sha-ger #StandWithIsrael #AntiZionism",
+    tags: ["StandWithIsrael", "AntiZionism"],
+  },
+
+
+{
+    filename: "47.png",
+    title: "Tew New Nazi #2-3-sha-ger #StandWithIsrael #Antisemitism Credit:TheShadow",
+    tags: ["StandWithIsrael", "Antisemitism"],
+  },
+
+
+{
+    filename: "48.png",
+    title: "The New Spice Girls #2-3-sha-ger #StandWithIsrael #TheWestIsNext",
+    tags: ["StandWithIsrael", "TheWestIsNext"],
+  },
+
+{
+    filename: "49.png",
+    title: "Choose Your Defense Shield #2-3-sha-ger #StandWithIsrael #Shieldren #WarCrime",
+    tags: ["StandWithIsrael", "Shieldren", "WarCrime"],
+  },
+{
+
   
 {
     filename: "100.jpg",
