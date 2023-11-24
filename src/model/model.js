@@ -461,14 +461,14 @@ export const posts = [
 
 
 {
-    filename: "406.jpg.jpg",
+    filename: "406.jpg",
     title: "Violence creates more violence. Education to violence leads to more violence…#2-3-sha-ger Credit: @yosephhaddad",
     tags: ["StandWithIsrael", "FreeGazaFromHamas", "violence", "YosephHaddad"],
   },
 
 
 {
-    filename: "800.jpg.jpg",
+    filename: "800.jpg",
     title: "Is there still hope for peace? I really wish there is… Picture by: Emad Hajjaj (Jordan) #2-3-sha-ger",
     tags: ["StandWithIsrael", "PeaceInTheMiddleEast", "StopItNow"],
   },
@@ -476,7 +476,7 @@ export const posts = [
 
 
 {
-    filename: "407.jpg.jpg",
+    filename: "407.jpg",
     title: "Knowing in advance about the planned massacre and not doing anything to stop it is a war crime! Blood on your hands! You call yourself Journalists? Shame on you!#2-3-sha-ger Credit: @yosephhaddad",
     tags: ["StandWithIsrael", "WarCrimes", "HumanRights", "YosephHaddad"],
   },
