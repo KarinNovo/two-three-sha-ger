@@ -418,6 +418,68 @@ export const posts = [
     title: "We fight to save our kids, Hamas uses their kids as human shields.#StandWithIsrael #CeaseFire Credit: @ellakenan ",
     tags: ["StandWithIsrael", "CeaseFire", "ellakenan"],
   },
+  {
+    filename: "400.jpg",
+    title: "The IDF found a terrorist rocket in a little girl's bed Beit Hanoun. Another hectic abuse of civilians. Did we say human shield already? Credit: @yosephhaddad",
+    tags: ["StandWithIsrael", "shieldren", "WarCrimes"],
+  },
+
+
+{
+    filename: "401.jpg",
+    title: "16th November 2023 - These were found on 3 terrorists from Hebron, making their way to kill jews in Jerusalem. Several security forces were injured. Help us stop them now. Credit: @yosephhaddad",
+    tags: ["StandWithIsrael", "MeJewMeToo", "StopItNow"],
+  },
+
+
+{
+    filename: "402.jpg",
+    title: "An injured Jewish hero is being treated by an Arab Muslim hero nurse. This is the real partnership the world should see! Jews and Arabs live in harmony and peace. This is the only way and this is what we want. Credit: @yosephhaddad",
+    tags: ["HumanRights", "StandWithIsrael", "FreeGazaFromHamas"],
+  },
+
+
+{
+    filename: "403.jpg",
+    title: "The German football club SV Werder Bremen support in Israel and the 250 (!!!!) israeli hostages. This is how all sports clubs around the world should act. Thank you for standing with Israel @werderbremen! Credit: @yosephhaddad",
+    tags: ["Hostages", "StandWithIsrael", "BringThemHomeNow", "WarCrimes", "HumanRights"],
+  },
+
+
+{
+    filename: "404.jpg",
+    title: "Who is the villain? Credit: @yosephhaddad",
+    tags: ["StandWithIsrael", "TheWestIsNext", "Propagaza"],
+  },
+
+
+{
+    filename: "405.jpg",
+    title: "Hamas weapons were found in a Kindergarten in Gaza. We also want to stop the human shield and free Palestine from Hamas… Credit: @yosephhaddad",
+    tags: ["StandWithIsrael", "FreeGazaFromHamas", "shieldren"],
+  },
+
+
+{
+    filename: "406.jpg",
+    title: "Violence creates more violence. Education to violence leads to more violence… Credit: @yosephhaddad",
+    tags: ["StandWithIsrael", "FreeGazaFromHamas", "violence"],
+  },
+
+
+{
+    filename: "800.jpg",
+    title: "Is there still hope for peace? I really wish there is… Picture by: Emad Hajjaj (Jordan)",
+    tags: ["StandWithIsrael", "PeaceInTheMiddleEast", "StopItNow"],
+  },
+
+
+
+{
+    filename: "407.jpg",
+    title: "Knowing in advance about the planned massacre and not doing anything to stop it is a war crime! Blood on your hands! You call yourself Journalists? Shame on you!  … Credit: @yosephhaddad",
+    tags: ["StandWithIsrael", "WarCrimes", "HumanRights"],
+  },
 ];
 export const getTags = () => {
   const allTags = _.uniq(_.flatMap(posts.map((post) => post.tags)));
