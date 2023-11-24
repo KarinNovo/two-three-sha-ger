@@ -421,49 +421,49 @@ export const posts = [
   {
     filename: "400.jpg",
     title: "The IDF found a terrorist rocket in a little girl's bed Beit Hanoun. Another hectic abuse of civilians. Did we say human shield already? Credit: @yosephhaddad",
-    tags: ["StandWithIsrael", "shieldren", "WarCrimes"],
+    tags: ["StandWithIsrael", "shieldren", "WarCrimes", "YosephHaddad"],
   },
 
 
 {
     filename: "401.jpg",
     title: "16th November 2023 - These were found on 3 terrorists from Hebron, making their way to kill jews in Jerusalem. Several security forces were injured. Help us stop them now. Credit: @yosephhaddad",
-    tags: ["StandWithIsrael", "MeJewMeToo", "StopItNow"],
+    tags: ["StandWithIsrael", "MeJewMeToo", "StopItNow", "YosephHaddad"],
   },
 
 
 {
     filename: "402.jpg",
     title: "An injured Jewish hero is being treated by an Arab Muslim hero nurse. This is the real partnership the world should see! Jews and Arabs live in harmony and peace. This is the only way and this is what we want. Credit: @yosephhaddad",
-    tags: ["HumanRights", "StandWithIsrael", "FreeGazaFromHamas"],
+    tags: ["HumanRights", "StandWithIsrael", "FreeGazaFromHamas", "YosephHaddad"],
   },
 
 
 {
     filename: "403.jpg",
     title: "The German football club SV Werder Bremen support in Israel and the 250 (!!!!) israeli hostages. This is how all sports clubs around the world should act. Thank you for standing with Israel @werderbremen! Credit: @yosephhaddad",
-    tags: ["Hostages", "StandWithIsrael", "BringThemHomeNow", "WarCrimes", "HumanRights"],
+    tags: ["Hostages", "StandWithIsrael", "BringThemHomeNow", "WarCrimes", "HumanRights", "YosephHaddad"],
   },
 
 
 {
     filename: "404.jpg",
     title: "Who is the villain? Credit: @yosephhaddad",
-    tags: ["StandWithIsrael", "TheWestIsNext", "Propagaza"],
+    tags: ["StandWithIsrael", "TheWestIsNext", "Propagaza", "YosephHaddad"],
   },
 
 
 {
     filename: "405.jpg",
     title: "Hamas weapons were found in a Kindergarten in Gaza. We also want to stop the human shield and free Palestine from Hamas… Credit: @yosephhaddad",
-    tags: ["StandWithIsrael", "FreeGazaFromHamas", "shieldren"],
+    tags: ["StandWithIsrael", "FreeGazaFromHamas", "shieldren", "YosephHaddad"],
   },
 
 
 {
     filename: "406.jpg",
     title: "Violence creates more violence. Education to violence leads to more violence… Credit: @yosephhaddad",
-    tags: ["StandWithIsrael", "FreeGazaFromHamas", "violence"],
+    tags: ["StandWithIsrael", "FreeGazaFromHamas", "violence", "YosephHaddad"],
   },
 
 
@@ -481,49 +481,49 @@ export const posts = [
     tags: ["StandWithIsrael", "WarCrimes", "HumanRights"],
   },
   {
-    filename: "201.jpg",
-    title: "An Israeli Explainer Credit:@noatishbi",
-    tags: ["StandWithIsrael", "TheNewYorkTimes"],
+    filename: "201.png",
+    title: "An Israeli Explainer Credit:@noatishby",
+    tags: ["StandWithIsrael", "TheNewYorkTimes", "NoaTishby"],
   },
 
 
 {
-    filename: "202.jpg",
-    title: "Kidnapped From Israel Credit:@noatishbi",
-    tags: ["StandWithIsrael", "BringThemHomeNow"],
+    filename: "202.png",
+    title: "Kidnapped From Israel Credit:@noatishby",
+    tags: ["StandWithIsrael", "BringThemHomeNow","NoaTishby"],
   },
 
 
 {
-    filename: "203.jpg",
-    title: "Bring Them Home Credit:@noatishbi",
-    tags: ["StandWithIsrael", "BringThemBack"],
+    filename: "203.png",
+    title: "Bring Them Home Credit:@noatishby",
+    tags: ["StandWithIsrael", "BringThemBack","NoaTishby"],
   },
 
 
 {
-    filename: "204.jpg",
-    title: "BBC fake it till you make it Credit:@noatishbi",
-    tags: ["StandWithIsrael", "MediaBias"],
+    filename: "204.png",
+    title: "BBC fake it till you make it Credit:@noatishby",
+    tags: ["StandWithIsrael", "MediaBias","NoaTishby"],
   },
 
 
 {
-    filename: "205.jpg",
-    title: "Anti-Zionism = Antisemitism Credit:@noatishbi",
-    tags: ["StandWithIsrael", "StopAntisemitism"],
+    filename: "205.png",
+    title: "Anti-Zionism = Antisemitism Credit:@noatishby",
+    tags: ["StandWithIsrael", "StopAntisemitism","NoaTishby"],
   },
 
 
 {
-    filename: "206.jpg",
-    title: "Antisemitic Students Credit:@noatishbi",
-    tags: ["StandWithIsrael", "StopAntisemitism"],
+    filename: "206.png",
+    title: "Antisemitic Students Credit:@noatishby",
+    tags: ["StandWithIsrael", "StopAntisemitism","NoaTishby"],
   },
 {
-    filename: "207.jpg",
-    title: "Stop Antesimitism Credit:@noatishbi",
-    tags: ["StandWithIsrael", "ProPalestineRally"],
+    filename: "207.png",
+    title: "Stop Antesimitism Credit:@noatishby",
+    tags: ["StandWithIsrael", "ProPalestineRally","NoaTishby" ],
   },
   {
     filename: "86.jpg",
