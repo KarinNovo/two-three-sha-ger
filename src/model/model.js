@@ -527,7 +527,7 @@ export const posts = [
   },
   {
     filename: "86.jpg",
-    title: "Beautiful young lady in Tel Aviv standing up for her country Israel. Why do we never hear of Arabs like her? The media only showcases anti-Jew Arabs #2-3-sha-ger #StandWithIsrael. Credit:@TimeToStandUpForIsrael",
+    title: "Beautiful young lady in Tel Aviv standing up for her country Israel. Why do we never hear of Arabs like her? The media only showcases anti-Jew Arabs 2-3-sha-ger.com #StandWithIsrael. Credit:@TimeToStandUpForIsrael",
     tags: ["StandWithIsrael", "TimeToStandUpForIsrael"],
   },
    {
