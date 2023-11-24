@@ -478,7 +478,7 @@ export const posts = [
 {
     filename: "407.jpg",
     title: "Knowing in advance about the planned massacre and not doing anything to stop it is a war crime! Blood on your hands! You call yourself Journalists? Shame on you!  … Credit: @yosephhaddad",
-    tags: ["StandWithIsrael", "WarCrimes", "HumanRights"],
+    tags: ["StandWithIsrael", "WarCrimes", "HumanRights", "YosephHaddad"],
   },
   {
     filename: "201.png",
