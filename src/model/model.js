@@ -687,6 +687,12 @@ export const posts = [
     tags: ["StandWithIsrael", "JewBelong", "Activism", "EndJewHatred"],
     category: "Social Activism and Support"
   },
+   {
+    filename: "700.png",
+    title: "“Hi @UNRWA👋Recognize this badge? 👇 It is your employee, who also happens to be a Hamas terrorist. Another employee of yours held an Israeli child hostage in his attic for 50 days, almost starving him to death. #23shager Credit:@DrEliDavid",
+    tags: ["StandWithIsrael", "DR.EliDavid", "UNRA", "UN"],
+    category: "Influencers"
+  },
 ];
 export const getTags = () => {
   const allTags = _.uniq(_.flatMap(posts.map((post) => post.tags)));
