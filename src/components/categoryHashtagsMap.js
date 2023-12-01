@@ -1,6 +1,6 @@
 export const categoryHashtagsMap = {
     "Influencers": ["ellakenan","DR.EliDavid", "YosephHaddad",  "NoaTishby", "KerenAzaria"],
-    "Hostages, Victims & Survivors" : [ "BringThemBack", "BringThemBackHome"]
+    "Hostages, Victims & Survivors" : [ "BringThemBack", "BringThemBackHome"],
     "Human Rights": ["WarCrimes", "HumanRights", "WorldChildrensDay", "InnocentWomen", "InnocentChildren", "WomanRights", "Shieldren", "UNRA", "UN"],
     "Terrorism and Security": ["HamasisISIS", "TheWestIsNext", "TerrorSplaining", "FreeGazaFromHamas", "WarCrime", "Nazism", "violence", "CeaseFire"],
     "Media and Public Perception": ["Propagaza", "MediaBias", "Hypocrisy", "HumanitarianCrisisLie", "IDF spokesperson", "CeasefireNOW", "TheNewYorkTimes"],
