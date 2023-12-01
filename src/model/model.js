@@ -688,7 +688,7 @@ export const posts = [
     category: "Social Activism and Support"
   },
    {
-    filename: "700.png",
+    filename: "701.jpeg",
     title: "“Hi @UNRWA👋Recognize this badge? 👇 It is your employee, who also happens to be a Hamas terrorist. Another employee of yours held an Israeli child hostage in his attic for 50 days, almost starving him to death. #23shager Credit:@DrEliDavid",
     tags: ["StandWithIsrael", "DR.EliDavid", "UNRA", "UN"],
     category: "Influencers"
