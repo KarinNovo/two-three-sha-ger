@@ -23,13 +23,17 @@ export default function Sorter({ sortSelected }) {
           {value}
         </Dropdown.Toggle>
 
-        <Dropdown.Menu>
-          <Dropdown.Item eventKey="Editor's choice">
-            Editor's choice
-          </Dropdown.Item>
-          <Dropdown.Item eventKey="Latest">Latest</Dropdown.Item>
-          <Dropdown.Item eventKey="Best rating">Best rating</Dropdown.Item>
-        </Dropdown.Menu>
+      <Dropdown.Menu>
+        <Dropdown.Item eventKey="Hostages, Victims & Survivors">Hostages, Victims & Survivors</Dropdown.Item>
+        <Dropdown.Item eventKey="Popular">Popular</Dropdown.Item>
+        <Dropdown.Item eventKey="Social Activism and Support">Social Activism and Support</Dropdown.Item>
+        <Dropdown.Item eventKey="Human Rights and Advocacy">Human Rights and Advocacy</Dropdown.Item>
+        <Dropdown.Item eventKey="Cultural and Religious Insights">Cultural and Religious Insights</Dropdown.Item>
+        <Dropdown.Item eventKey="Media and Public Perception">Media and Public Perception</Dropdown.Item>
+        <Dropdown.Item eventKey="Terrorism and Security">Terrorism and Security</Dropdown.Item>
+        <Dropdown.Item eventKey="Political Movements">Political Movements</Dropdown.Item>
+        <Dropdown.Item eventKey="International Conflict">International Conflict</Dropdown.Item>
+      </Dropdown.Menu>
       </Dropdown>
     </div>
   );
