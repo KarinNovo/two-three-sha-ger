@@ -1,5 +1,6 @@
 import React from "react";
-// Import other necessary components and icons
+import ShareIcon from '@mui/icons-material/Share';
+
 
 function Post({ title, fileName, tags }) {
   const handleOnClick = async () => {
@@ -55,8 +56,6 @@ function Post({ title, fileName, tags }) {
       <div style={{ display: "flex", margin: "15px" }}>
         {/* Icons */}
         <ShareIcon style={{ marginLeft: "5px" }} onClick={handleOnClick} />
-        <FavoriteBorderIcon style={{ marginLeft: "5px" }} />
-        <BookmarkBorderIcon style={{ marginLeft: "5px" }} />
       </div>
     </div>
   );
