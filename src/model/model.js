@@ -690,13 +690,13 @@ export const posts = [
    {
     filename: "701.png",
     title: "Hi @UNRWA Recognize this badge? It is your employee, who also happens to be a Hamas terrorist. Another employee of yours held an Israeli child hostage in his attic for 50 days, almost starving him to death. #23shager Credit:@DrEliDavid",
-    tags: ["StandWithIsrael", "DR.EliDavid", "UNRA", "UN"],
+    tags: ["StandWithIsrael", "DrEliDavid", "UNRA", "UN"],
     category: "Influencers"
   },
   {
     filename: "702.png",
     title: "Ever wondered why you're standing in long airport security lines? #23shager Credit:@DrEliDavid",
-    tags: ["DR.EliDavid", "tError", "PeaceInTheMiddleEast"],
+    tags: ["DrEliDavid", "tError", "PeaceInTheMiddleEast"],
     category: "Influencers"
   },
 ];
