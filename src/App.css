@@ -95,6 +95,7 @@
   text-align: left;
   font-family: Arial, sans-serif; /* Example font-family for English */
   margin-bottom: 20px; /* Spacing between English and Hebrew instructions */
+  font-size: small;
 }
 
 /* Styles for Hebrew instructions */
@@ -102,6 +103,7 @@
   direction: rtl; /* Right-to-left text direction for Hebrew */
   font-family: 'Arial Hebrew', Arial, sans-serif; /* Example font-family for Hebrew */
   text-align: right;
+  font-size: small;
 }
 /* Define blue shades */
 :root {

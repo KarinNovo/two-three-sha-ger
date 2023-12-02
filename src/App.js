@@ -92,9 +92,9 @@ useEffect(() => {
                     <div className="english-instructions">
                       <h2>🚀 Content Launch Instructions</h2>
                       <ol>
-                        <li> 🏷️ Choose a category and hashtag 🏷️</li>
-                        <li>📤 Choose content and click <FontAwesomeIcon icon={faShareAlt} /> 📤</li>
-                        <li>📬 Choose a platform and click 'Post' 📬</li>
+                        <li> 🏷️ Choose a category and hashtag </li>
+                        <li>📤 Choose content and click <FontAwesomeIcon icon={faShareAlt} /> </li>
+                        <li>📬 Choose a platform and click 'Post' </li>
                       </ol>
                     </div>
 
@@ -102,9 +102,9 @@ useEffect(() => {
                   <div className="hebrew-instructions">
                     <h2>הוראות שיגור תוכן</h2>
                     <ol>
-                      <li>🏷️בחרו קטגוריה והאשטאג.🏷️</li>
-                      <li>📤בחרו תוכן ולחצו על <FontAwesomeIcon icon={faShareAlt} />📤</li>
-                      <li>📬   בחרו פלטפורמה ולחצו על POST📬</li>
+                      <li>🏷️בחרו קטגוריה והאשטאג</li>
+                      <li>📤בחרו תוכן ולחצו על <FontAwesomeIcon icon={faShareAlt} /></li>
+                      <li>📬   בחרו פלטפורמה ולחצו על POST</li>
                     </ol>
                   </div>
                 </div>
