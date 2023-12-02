@@ -77,10 +77,12 @@ useEffect(() => {
         <Menu />
         <RocketAnimation />
         
-        {/* Instruction Button with Icon */}
-        <button onClick={toggleInstructions}>
+       {/* Instruction Button with Icon */}
+        <button onClick={toggleInstructions} className="modern-button">
           <FontAwesomeIcon icon={faRocket} className="rocket-icon" />
+          Launch Instructions | הוראות שיגור
         </button>
+
 
             {/* Instruction Modal */}
             {showInstructions && (
@@ -98,11 +100,11 @@ useEffect(() => {
 
                   {/* Hebrew Instructions */}
                   <div className="hebrew-instructions">
-                    <h2>הוראות השקת תוכן</h2>
+                    <h2>הוראות שיגור תוכן</h2>
                     <ol>
                       <li>🏷️בחרו קטגוריה והאשטאג.🏷️</li>
                       <li>📤בחרו תוכן ולחצו על <FontAwesomeIcon icon={faShareAlt} />📤</li>
-                      <li>📬 POST בחרו פלטפורמה ולחצו על 📬</li>
+                      <li>📬   בחרו פלטפורמה ולחצו על POST📬</li>
                     </ol>
                   </div>
                 </div>
