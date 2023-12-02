@@ -91,3 +91,15 @@
   top: 10px;
   right: 10px;
 }
+.english-instructions {
+  text-align: left;
+  font-family: Arial, sans-serif; /* Example font-family for English */
+  margin-bottom: 20px; /* Spacing between English and Hebrew instructions */
+}
+
+/* Styles for Hebrew instructions */
+.hebrew-instructions {
+  direction: rtl; /* Right-to-left text direction for Hebrew */
+  font-family: 'Arial Hebrew', Arial, sans-serif; /* Example font-family for Hebrew */
+  text-align: right;
+}

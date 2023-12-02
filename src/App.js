@@ -77,20 +77,39 @@ useEffect(() => {
           <FontAwesomeIcon icon={faRocket} /> How to Launch Content
         </button>
 
-        {/* Instruction Modal */}
-        {showInstructions && (
-          <div className="instructions-modal animate-modal">
-            <h2>Content Launch Instructions</h2>
-            <ol>
-              <li><FontAwesomeIcon icon={faCheckCircle} /> Choose a category and hashtag.</li>
-              <li><FontAwesomeIcon icon={faShareAlt} /> Choose content and click 'Share'.</li>
-              <li><FontAwesomeIcon icon={faCheckCircle} /> Choose a platform and click 'Post'. </li>
-            </ol>
-            <button onClick={toggleInstructions} className="close-instructions">
-              <FontAwesomeIcon icon={faRocket} className="rocket-icon" /> Close
+         {/* Instruction Button with Icon */}
+         <button onClick={toggleInstructions}>
+              <FontAwesomeIcon icon={faRocket} /> How to Launch Content
             </button>
-          </div>
-        )}
+
+            {/* Instruction Modal */}
+            {showInstructions && (
+              <div className="instructions-modal animate-modal">
+                <div className="instruction-content">
+                  {/* English Instructions */}
+                  <div className="english-instructions">
+                    <h2>Content Launch Instructions</h2>
+                    <ol>
+                      <li><FontAwesomeIcon icon={faCheckCircle} /> Choose a category and hashtag.</li>
+                      <li><FontAwesomeIcon icon={faShareAlt} /> Choose content and click 'Share'.</li>
+                      <li><FontAwesomeIcon icon={faCheckCircle} /> Choose a platform and click 'Post'. </li>
+                    </ol>
+                  </div>
+                  {/* Hebrew Instructions */}
+                  <div className="hebrew-instructions">
+                    <h2>הוראות השקת תוכן</h2>
+                    <ol>
+                      <li><FontAwesomeIcon icon={faCheckCircle} /> בחר קטגוריה והאשטאג.</li>
+                      <li><FontAwesomeIcon icon={faShareAlt} /> בחר תוכן ולחץ על 'שתף'.</li>
+                      <li><FontAwesomeIcon icon={faCheckCircle} /> בחר פלטפורמה ולחץ על 'פרסם'.</li>
+                    </ol>
+                  </div>
+                </div>
+                <button onClick={toggleInstructions} className="close-instructions">
+                  <FontAwesomeIcon icon={faRocket} className="rocket-icon" /> Close
+                </button>
+              </div>
+            )}
 
         {/* Categories Section */}
         <div className="category-section">
