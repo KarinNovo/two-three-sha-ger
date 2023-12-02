@@ -16,36 +16,38 @@ function getTimeSinceWar() {
 function Menu() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary" style={{ padding: 0 }}>
-      <Container fluid style={{ background: "#7FB3FF", display: "flex", justifyContent: "center", alignItems: "center" }}>
-        {/* Hostage Counter */}
-        <div style={{ fontSize: "20px" }}>
-          <strong>136</strong>
-         <div> Hostages in Gaza </div>
-        </div>
+    <Container fluid style={{ background: "#7FB3FF", display: "flex", justifyContent: "center", alignItems: "center" }}>
+      <div className="navbar-content" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+          {/* Hostage Counter */}
+          <div style={{ fontSize: "20px", margin: '5px' }}>
+            <strong>136</strong>
+            <div> Hostages in Gaza </div>
+          </div>
 
-        {/* Logo as Separator */}
-        <div style={{
-            background: "white",
-            width: "50px",
-            height: "50px",
-            display: "flex",
-            justifyContent: "center",
-            alignItems: "center",
-            borderRadius: "8px",
-            margin: "0 15px",
-          }}>
-          <Image
-            width={50}
-            height={50}
-            src={logo}
-            alt="logo"
-          />
-        </div>
+          {/* Logo as Separator */}
+          <div style={{
+              background: "white",
+              width: "50px",
+              height: "50px",
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+              borderRadius: "8px",
+              margin: "0 15px",
+            }}>
+            <Image
+              width={50}
+              height={50}
+              src={logo}
+              alt="logo"
+            />
+          </div>
 
-        {/* Days of War Counter */}
-        <div style={{ fontSize: "20px" }}>
-          <strong>{getTimeSinceWar()} Days</strong>
-          <div>since the war started</div>
+          {/* Days of War Counter */}
+          <div style={{ fontSize: "20px", margin: '5px' }}>
+            <strong>{getTimeSinceWar()} Days</strong>
+            <div>since the war started</div>
+          </div>
         </div>
       </Container>
     </Navbar>

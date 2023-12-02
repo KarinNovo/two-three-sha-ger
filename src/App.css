@@ -157,3 +157,8 @@ button:hover {
   border-radius: 15px;
   padding: 25px;
 }
+@media (max-width: 768px) {
+  .navbar-content {
+    flex-direction: column;
+  }
+}
