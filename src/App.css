@@ -103,3 +103,55 @@
   font-family: 'Arial Hebrew', Arial, sans-serif; /* Example font-family for Hebrew */
   text-align: right;
 }
+/* Define blue shades */
+:root {
+  --primary-blue: #007bff;
+  --light-blue: #61dafb;
+  --dark-blue: #0056b3;
+  --modal-background: #f4f7fa;
+}
+
+/* Use these colors in your existing classes */
+.App-header {
+  background-color: var(--dark-blue);
+}
+
+.category-button, .tag-button {
+  background-color: var(--primary-blue);
+}
+
+.category-button:hover, .tag-button:hover {
+  background-color: var(--light-blue);
+}
+
+.instructions-modal {
+  background-color: var(--modal-background);
+}
+@keyframes rocketLaunch {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+  100% { transform: translateY(0); }
+}
+
+.rocket-icon {
+  animation: rocketLaunch 2s infinite;
+}
+button {
+  background-color: var(--primary-blue);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: var(--light-blue);
+}
+
+.instructions-modal {
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  padding: 25px;
+}

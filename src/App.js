@@ -33,6 +33,10 @@ function App() {
     setPosts(model.posts.filter((post) => post.tags.includes(tag)));
   };
 
+  const renderPostCount = () => {
+    return posts.length; // This will return the count of posts currently set in the state
+  };
+
   const toggleInstructions = () => {
     setShowInstructions(!showInstructions);
   };
@@ -51,6 +55,7 @@ function App() {
     background: '#00008B',
     fontSize: 'smaller'
   };
+
   <div className="rocket-animation-container">
   <RocketAnimation />
   </div>
@@ -74,34 +79,30 @@ useEffect(() => {
         
         {/* Instruction Button with Icon */}
         <button onClick={toggleInstructions}>
-          <FontAwesomeIcon icon={faRocket} /> How to Launch Content
+          <FontAwesomeIcon icon={faRocket} className="rocket-icon" />
         </button>
-
-         {/* Instruction Button with Icon */}
-         <button onClick={toggleInstructions}>
-              <FontAwesomeIcon icon={faRocket} /> How to Launch Content
-            </button>
 
             {/* Instruction Modal */}
             {showInstructions && (
               <div className="instructions-modal animate-modal">
                 <div className="instruction-content">
                   {/* English Instructions */}
-                  <div className="english-instructions">
-                    <h2>Content Launch Instructions</h2>
-                    <ol>
-                      <li><FontAwesomeIcon icon={faCheckCircle} /> Choose a category and hashtag.</li>
-                      <li><FontAwesomeIcon icon={faShareAlt} /> Choose content and click 'Share'.</li>
-                      <li><FontAwesomeIcon icon={faCheckCircle} /> Choose a platform and click 'Post'. </li>
-                    </ol>
-                  </div>
+                    <div className="english-instructions">
+                      <h2>🚀 Content Launch Instructions</h2>
+                      <ol>
+                        <li> 🏷️ Choose a category and hashtag 🏷️</li>
+                        <li>📤 Choose content and click <FontAwesomeIcon icon={faShareAlt} /> 📤</li>
+                        <li>📬 Choose a platform and click 'Post' 📬</li>
+                      </ol>
+                    </div>
+
                   {/* Hebrew Instructions */}
                   <div className="hebrew-instructions">
                     <h2>הוראות השקת תוכן</h2>
                     <ol>
-                      <li><FontAwesomeIcon icon={faCheckCircle} /> בחר קטגוריה והאשטאג.</li>
-                      <li><FontAwesomeIcon icon={faShareAlt} /> בחר תוכן ולחץ על 'שתף'.</li>
-                      <li><FontAwesomeIcon icon={faCheckCircle} /> בחר פלטפורמה ולחץ על 'פרסם'.</li>
+                      <li>🏷️בחרו קטגוריה והאשטאג.🏷️</li>
+                      <li>📤בחרו תוכן ולחצו על <FontAwesomeIcon icon={faShareAlt} />📤</li>
+                      <li>📬 POST בחרו פלטפורמה ולחצו על 📬</li>
                     </ol>
                   </div>
                 </div>
@@ -139,15 +140,16 @@ useEffect(() => {
           <h3>Tags</h3>
           <Filter tagSelected={tagSelected} selectedCategory={selectedCategory} />
         </div>
+      
 
         {/* Posts Section */}
         <div style={{ marginTop: '20px', padding: '10px' }}>
-          <h3>Posts</h3>
-          <div style={{ borderTop: '1px solid #ccc', margin: '10px 0' }}></div> {/* Divider */}
-          <ContentList posts={_.shuffle(posts)} />
-        </div>
-      </div>
-     }/>
+              <h3>Posts ({renderPostCount()} found)</h3> {/* Display the number of posts found */}
+              <div style={{ borderTop: '1px solid #ccc', margin: '10px 0' }}></div> {/* Divider */}
+              <ContentList posts={_.shuffle(posts)} />
+            </div>
+          </div>
+        }/>
      <Route path="/instagram-callback" element={<InstagramCallback />} />
    </Routes>
  </Router>
