@@ -441,7 +441,7 @@ export const posts = [
 
 {
     filename: "54.png",
-    title: "Hamas’ Educations #2-3-sha-ger #StandWithIsrael #HamasTerrorAcademy" #FreeGazaFromHamas,
+    title: "Hamas’ Educations #2-3-sha-ger #StandWithIsrael #HamasTerrorAcademy #FreeGazaFromHamas",
     tags: ["StandWithIsrael", "HamasTerrorAcademy", "FreeGazaFromHamas"],
   },
 
@@ -520,7 +520,7 @@ export const posts = [
 {
     filename: "66.png",
     title: "Ethnic Cleansing = Follow the Numbers #2-3-sha-ger #StandWithIsrael #StopAntisemitism MeJewMeToo",
-    tags: ["StandWithIsrael", "StopAntisemitism", "MeJewMeToo],
+    tags: ["StandWithIsrael", "StopAntisemitism", "MeJewMeToo"],
   },
 
 
