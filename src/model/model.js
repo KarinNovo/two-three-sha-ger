@@ -930,21 +930,21 @@ export const posts = [
 
 
 {
-    filename: "506.png",
+    filename: "506.jpg",
     title: "THEY = #HamaisISIS #2-3-sha-ger #StandWithIsrael #WomenRights #HumanRights #Kidnapped #Murderers",
     tags: ["StandWithIsrael", "WomenRights", "HumanRights", "Kidnapped", "Murderers", "HamasisISIS"],
   },
 
 
 {
-    filename: "507.png",
+    filename: "507.jpg",
     title: "Example for #UsefullIdiot #2-3-sha-ger #StandWithIsrael #FreeGazaFromHamas",
     tags: ["StandWithIsrael", "UsefullIdiot", "FreeGazaFromHamas"],
   },
 
 
 {
-    filename: "508.png",
+    filename: "508.jpg",
     title: "Emily is in Home 💙 #2-3-sha-ger #StandWithIsrael #BRINGALLOFTHEMHOME #InnocentChildren",
     tags: ["StandWithIsrael", "BRINGALLOFTHEMHOME", "InnocentChildren"],
   },
