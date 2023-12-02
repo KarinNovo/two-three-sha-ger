@@ -5,15 +5,16 @@ const Category = ({ onCategorySelected }) => {
   const [selectedCategory, setSelectedCategory] = useState('Select Category');
 
   const categories = [
-    "Hostages, Victims & Survivors",
+    "Influencers",
     "Popular",
-    "Social Activism and Support",
+    "Hostages, Victims & Survivors",
     "Human Rights",
+    "Social Activism and Support",
     "Cultural and Religious Insights",
     "Media and Public Perception",
     "Terrorism and Security",
     "International Conflict",
-    "Influencers",
+    
   ];
 
   const handleSelect = (e) => {
