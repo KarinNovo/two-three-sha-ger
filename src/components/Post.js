@@ -1,5 +1,6 @@
 import React from "react";
 import ShareIcon from '@mui/icons-material/Share';
+import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 
 
 function Post({ title, fileName, tags }) {
@@ -47,6 +48,15 @@ function Post({ title, fileName, tags }) {
     }
   };
 
+  const copyToClipboard = () => {
+    const textToCopy = title + "\n" + tags.map(tag => `#${tag}`).join(" ");
+    navigator.clipboard.writeText(textToCopy).then(() => {
+      alert("Copied to clipboard!");
+    }, (err) => {
+      console.error('Could not copy text: ', err);
+    });
+  };
+
   return (
     <div className="post" style={{ borderRadius: "8px", background: "var(--background-panel-day, #FFF)", boxShadow: "0px 4px 4px 0px rgba(0, 0, 0, 0.25)" }}>
       <img className="post__image" src={`/photos/${fileName}`} alt={title} />
@@ -56,6 +66,8 @@ function Post({ title, fileName, tags }) {
       <div style={{ display: "flex", margin: "15px" }}>
         {/* Icons */}
         <ShareIcon style={{ marginLeft: "5px" }} onClick={handleOnClick} />
+          {/* Copy to Clipboard Icon */}
+          <ContentCopyIcon style={{ marginLeft: "5px" }} onClick={copyToClipboard} />
       </div>
     </div>
   );
