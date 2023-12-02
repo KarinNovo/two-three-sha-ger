@@ -10,7 +10,7 @@ function FacebookLoginComponent() {
   const loadFacebookSDK = () => {
     window.fbAsyncInit = function() {
       FB.init({
-        appId      : '1503635350425037',
+        appId      : '225260913933852',
         cookie     : true,
         xfbml      : true,
         version    : 'v15.0'

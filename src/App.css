@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+  background-color: #f4f7fa; /* Light background color for the whole app */
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/* Enhanced instruction modal styles */
+.instructions-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 5px 20px rgba(0, 0, 150, 0.2);
+  width: 80%;
+  max-width: 500px;
+  z-index: 100;
+  transition: transform 0.3s ease-out, opacity 0.3s ease;
+  opacity: 1; /* Ensure modal is fully visible when active */
+}
+
+.instructions-modal.animate-modal {
+  transform: translate(-50%, -50%) scale(1.1);
+}
+
+/* Card-like sections for categories and tags */
+.category-section, .tags-section {
+  background-color: #E8F4FA;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for category and tag buttons */
+.category-button, .tag-button {
+  background-color: #4A90E2;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 8px 15px;
+  margin: 5px;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.category-button:hover, .tag-button:hover {
+  background-color: #357ABD;
+  transform: translateY(-3px);
+}
+
+.tag-button {
+  background-color: #50E3C2; /* Different color for tags */
+}
+
+/* Animation for rocket icon */
+.rocket-icon {
+  display: inline-block;
+  animation: rocketPulse 2s infinite;
+}
+
+@keyframes rocketPulse {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  .category-section, .tags-section {
+    margin-bottom: 15px;
+  }
+}
+/* App.css */
+.rocket-animation-container {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
