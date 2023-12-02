@@ -699,6 +699,162 @@ export const posts = [
     tags: ["DrEliDavid", "tError", "PeaceInTheMiddleEast"],
     category: "Influencers"
   },
+  {
+    filename: "504.png",
+    title: "I Stand with #Israel #2-3-sha-ger #StandWithIsrael #IsraeliPeople",
+    tags: ["StandWithIsrael", "IsraeliPeople", "Israel"],
+  },
+
+
+{
+    filename: "505.png",
+    title: "Things Don’t Work with Hamas  #2-3-sha-ger #StandWithIsrael #HumanRights #LiberalValues #HamasIsCancer Credit: @ellakenan",
+    tags: ["StandWithIsrael", "HumanRights", "HamasIsCancer", "LiberalValues"],
+  },
+
+
+{
+    filename: "506.png",
+    title: "THEY = #HamaisISIS #2-3-sha-ger #StandWithIsrael #WomenRights #HumanRights #Kidnapped #Murderers",
+    tags: ["StandWithIsrael", "WomenRights", "HumanRights", "Kidnapped", "Murderers", "HamasisISIS"],
+  },
+
+
+{
+    filename: "507.png",
+    title: "Example for #UsefullIdiot #2-3-sha-ger #StandWithIsrael #FreeGazaFromHamas",
+    tags: ["StandWithIsrael", "UsefullIdiot", "FreeGazaFromHamas"],
+  },
+
+
+{
+    filename: "508.png",
+    title: "Emily is in Home 💙 #2-3-sha-ger #StandWithIsrael #BRINGALLOFTHEMHOME #InnocentChildren",
+    tags: ["StandWithIsrael", "BRINGALLOFTHEMHOME", "InnocentChildren"],
+  },
+
+
+{
+    filename: "87.png",
+    title: "IDF’s Precision #2-3-sha-ger #StandWithIsrael #IDF #HamasToBeDemolished",
+    tags: ["StandWithIsrael", "IDF", "HamasToBeDemolished"],
+  },
+
+
+
+
+{
+    filename: "88.png",
+    title: "Thank You #Bahrain for being the First 💙 #2-3-sha-ger #StandWithIsrael #PrinceBahrain #MuslimWorld #HamasToBeDemolished #HamasIsCancer #Hostages",
+    tags: ["StandWithIsrael", "Bahrain", "PrinceBahrain", "MuslimWorld", "HamasToBeDemolished", "HamasIsCancer", "Hostages"],
+  },
+
+
+{
+    filename: "89.png",
+    title: "They Hate Israel Because of Their Existence #2-3-sha-ger #StandWithIsrael #Racism #Antisemitism #StopAntisemitism #HamasIsCancer",
+    tags: ["StandWithIsrael", "Racism", "Antisemitism", "StopAntisemitism", "HamasIsCancer"],
+  },
+
+
+{
+    filename: "90.png",
+    title: "Don’t be Naive, #The West Is Next #2-3-sha-ger #StandWithIsrael #Racism #StopAntisemitism",
+    tags: ["StandWithIsrael", "TheWestIsNext", "Racism", "StopAntisemitism"],
+  },
+
+
+{
+    filename: "91.png",
+    title: "Brave #Iranian Woman #2-3-sha-ger #StandWithIsrael #IranianPeople #IsraelWar",
+    tags: ["StandWithIsrael", "IranianWoman", "IranianPeople", "IsraelWar"],
+  },
+
+
+{
+    filename: "92.png",
+    title: "ISRAELI MOTHER WARRIOR #2-3-sha-ger #StandWithIsrael #IsraeliWomen #IsraelWar #IsraelFightsBack #WeLoveIDF #swordsofiron",
+    tags: ["StandWithIsrael", "IsraeliWomen", "IsraelWar", "IsraelFightsBack", "WeLoveIDF", "swordsofiron"],
+  },
+
+{
+    filename: "93.png",
+    title: "15 yrs. old Hamas Terrorist #2-3-sha-ger #StandWithIsrael #HamasTerrorAcademy #HamasIsCancer #tError #HamasTerrorists #ChildrenRights",
+    tags: ["StandWithIsrael", "HamasTerrorAcademy", "HamasIsCancer", "tError", "HamasTerrorists", "ChildrenRights"],
+  },
+{
+    filename: "94.png",
+    title: "Finally, She is in Home 💙 #2-3-sha-ger #StandWithIsrael #BRINGALLOFTHEMHOME #Hostages #IsraelWar #swordsofiron",
+    tags: ["StandWithIsrael", "BRINGALLOFTHEMHOME", "Hostages", "IsraelWar", "swordsofiron"],
+  },
+
+
+{
+    filename: "95.png",
+    title: "Thank God 💙 #2-3-sha-ger #StandWithIsrael #BRINGALLOFTHEMHOME #Hostages #IsraelWar #swordsofiron",
+    tags: ["StandWithIsrael", "BRINGALLOFTHEMHOME", "Hostages", "IsraelWar", "swordsofiron"],
+  },
+
+
+{
+    filename: "96.png",
+    title: "#Gen-Z, Please Learn the Israeli Original Borders #2-3-sha-ger #StandWithIsrael #IsraelWar #IsraelFightsBack",
+    tags: ["StandWithIsrael", "Gen-Z", "IsraelWar", "IsraelFightsBack"],
+  },
+
+
+{
+    filename: "97.png",
+    title: "The Most #Humanitarian Army in the World #2-3-sha-ger #StandWithIsrael #Humanity #IsraeliWomenSoldier #IsraeliWomen #IsraelWar #IsraelFightsBack",
+    tags: ["StandWithIsrael", "Humanity", "IsraeliWomenSoldier", "IsraeliWomen", "IsraelWar", "IsraelFightsBack"],
+  },
+
+
+{
+    filename: "98.png",
+    title: "The New #British Soldier #2-3-sha-ger #StandWithIsrael #UK #TheWestIsNext #LiberalValues",
+    tags: ["StandWithIsrael", "British", "UK", "TheWestIsNext", "LiberalValues"],
+  },
+
+
+
+
+
+
+
+{
+    filename: "99.png",
+    title: "Shameless Terrorist Doll #2-3-sha-ger #StandWithIsrael #IsraelFightsBack #IsraeliWomen #HamasTerrorists #HamasIsCancer",
+    tags: ["StandWithIsrael", "IsraelFightsBack", "IsraeliWomen", "HamasTerrorists", "HamasIsCancer"],
+  },
+
+
+{
+    filename: "500.png",
+    title: "Yes, this is the Flag! #2-3-sha-ger #StandWithIsrael #IsraelPalestineConflict #IsraelWar #StandWithJew #IsraeliPeople",
+    tags: ["StandWithIsrael", "IsraelPalestineConflict", "IsraelWar", "StandWithJew", "IsraeliPeople"],
+  },
+
+
+{
+    filename: "501.png",
+    title: "ISRAEL WILL WIN #2-3-sha-ger #StandWithIsrael #swordsofiron",
+    tags: ["StandWithIsrael", "swordsofiron"],
+  },
+
+
+{
+    filename: "502.png",
+    title: "Fanatics Wrapped in Lies Indeed #2-3-sha-ger #StandWithIsrael #swordsofiron #UsefullIdiots #TheWestIsNext Credit:@DouglasMurray",
+    tags: ["StandWithIsrael", "swordsofiron", "UsefullIdiots", "TheWestIsNext"],
+  },
+
+
+{
+    filename: "503.png",
+    title: "Bring Him Back #2-3-sha-ger #StandWithIsrael #swordsofiron #BRINGALLOFTHEMHOME #InnocentChildren #KidnappedFromIsrael #Hostages #IsraelFightsBack",
+    tags: ["StandWithIsrael", "swordsofiron", "BRINGALLOFTHEMHOME", "InnocentChildren", "KidnappedFromIsrael", "Hostages", "HamasIsCancer", "IsraelFightsBack"],
+  },
 ];
 export const getTags = () => {
   const allTags = _.uniq(_.flatMap(posts.map((post) => post.tags)));
