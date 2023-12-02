@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import ShareIcon from '@mui/icons-material/Share';
 import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 
@@ -47,6 +47,7 @@ function Post({ title, fileName, tags }) {
       alert("Error fetching the image.");
     }
   };
+  const [hoverText, setHoverText] = useState('');
 
   const copyToClipboard = () => {
     const textToCopy = title + "\n" + tags.map(tag => `#${tag}`).join(" ");
@@ -64,10 +65,18 @@ function Post({ title, fileName, tags }) {
       <h6>{tags.map((tag) => `#${tag} `)}</h6>
 
       <div style={{ display: "flex", margin: "15px" }}>
-        {/* Icons */}
-        <ShareIcon style={{ marginLeft: "5px" }} onClick={handleOnClick} />
-          {/* Copy to Clipboard Icon */}
+        {/* Share Icon */}
+        <div onMouseEnter={() => setHoverText('Share')} onMouseLeave={() => setHoverText('')}>
+          <ShareIcon style={{ marginLeft: "5px" }} onClick={handleOnClick} />
+        </div>
+
+        {/* Copy to Clipboard Icon */}
+        <div onMouseEnter={() => setHoverText('Copy to Clipboard')} onMouseLeave={() => setHoverText('')}>
           <ContentCopyIcon style={{ marginLeft: "5px" }} onClick={copyToClipboard} />
+        </div>
+
+        {/* Hover Text */}
+        {hoverText && <span style={{ marginLeft: "10px" }}>{hoverText}</span>}
       </div>
     </div>
   );
