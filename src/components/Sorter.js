@@ -7,6 +7,7 @@ export default function Sorter({ onCategorySelected, sortSelected }) {
   const [selectedItem, setSelectedItem] = useState('Select Category');
 
   const categories = [
+    "IronLinks",
     "Hostages, Victims & Survivors",
     "Popular",
     "Social Activism and Support",
@@ -16,7 +17,7 @@ export default function Sorter({ onCategorySelected, sortSelected }) {
     "Terrorism and Security",
     "International Conflict",
     "Influencers",
-    "IronLinks",
+
   ];
 
   const handleSelect = (e) => {

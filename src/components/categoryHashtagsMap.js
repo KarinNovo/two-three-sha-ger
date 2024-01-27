@@ -8,6 +8,6 @@ export const categoryHashtagsMap = {
     "Social Activism and Support": ["ProPalestineRally", "RedCross", "StandWithUs", "Activism", "PeaceInTheMiddleEast", "StopItNow",  "StandWithJews"],
     "Cultural and Religious Insights": ["Westurn", "Islam", "Religion", "Jews", "Holocaust", "GazaLight", "HAMAS", "IsraeliPeople", "LiberalValues" ],
     "International Conflict": ["AntiZionism", "Antisemitism","MeJewMeToo", "StopAntisemitism", "TimeToStandUpForIsrael", "Educateyourself", "WakeUp" ],
-     
+    "IronLinks":["IronLinks", "WhiteColonizers", "Propagaza"]
   };
   export default categoryHashtagsMap;

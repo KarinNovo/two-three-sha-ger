@@ -5,6 +5,7 @@ const Category = ({ onCategorySelected }) => {
   const [selectedCategory, setSelectedCategory] = useState('Select Category');
 
   const categories = [
+    "IronLinks",
     "Influencers",
     "Popular",
     "Hostages, Victims & Survivors",
@@ -14,8 +15,6 @@ const Category = ({ onCategorySelected }) => {
     "Media and Public Perception",
     "Terrorism and Security",
     "International Conflict",
-    "IronLinks",
-    
   ];
 
   const handleSelect = (e) => {
