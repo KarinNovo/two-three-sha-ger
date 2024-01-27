@@ -239,15 +239,6 @@ export const posts = [
   },
 
   {
-    filename: "25.png",
-    title: "May Hell be with You. #23shager",
-    tags: [ "WarCrimes", "Hostages"],
-    category:"Hostages, Victims & Survivors"
-  },
-
-  
-
-  {
     filename: "27.png",
     title: "#MeJew #23shager",
     tags: ["Jews", "Holocaust", "GazaLight", "MeJewMeToo"],
@@ -329,13 +320,6 @@ export const posts = [
   },
 
 
-{
-    filename: "38.png",
-    title: "I’M OK ? #23shager",
-    tags: ["HamasisISIS", "InnocentWomen", "InnocentChildren"],
-    category:"Hostages, Victims & Survivors"
-  },
-
 
 {
     filename: "40.png",
@@ -405,17 +389,6 @@ export const posts = [
     category: "Cultural and Religious Insights"
   },
 
-{
-    filename: "49.png",
-    title: "Choose Your Shield. #23shager #StandWithIsrael #Shieldren #WarCrime",
-    tags: ["StandWithIsrael", "Shieldren", "WarCrime"],
-    category: "Terrorism and Security"
-  }, 
-  {
-    filename: "50.png",
-    title: "The New World’s ‘Hero’ #23shager #StandWithIsrael #Massacre #KillingInnocent Credit:@AvihaiCohen",
-    tags: ["StandWithIsrael", "Massacre", "KillingInnocent"],
-  },
 
 
 {
@@ -446,11 +419,6 @@ export const posts = [
   },
 
 
-{
-    filename: "55.png",
-    title: "Let Us Bright Your ‘Free Palestine’ #23shager #StandWithIsrael #KillingInnocent #RapeInnocent #Vandalists",
-    tags: ["StandWithIsrael", "KillingInnocent", "RapeInnocent", "Vandalists"],
-  },
 
 {
     filename: "56.png",
@@ -640,12 +608,7 @@ export const posts = [
     tags: ["BringThemBack", "BringThemBackHome", "Hamasisisis" ,"WorldChildrensDay", "standwithisrael","ellakenan" ],
   category: "Influencers"
 },
-{
-    filename: "102.jpg",
-    title: "Please take an immediate stance against Jihadi terrorist support on campus.. #23shager #standwithisrael #Hamasisisis Credit:@EllaTravelsLove",
-    tags: ["Hamasisisis", "standwithisrael", "ellakenan" ],
-    category: "Influencers"
-  },
+
 {
     filename: "103.jpg",
     title: "Gen Z in the US is really the biggest disappointment of all time. #23shager #standwithisrael #TheWestIsNext #Educateyourself Credit:@EllaTravelsLove",
@@ -664,12 +627,7 @@ export const posts = [
     tags: ["TheWestIsNext","Educateyourself", "UsefullIdiots" ,"ellakenan" ],
     category: "Influencers"
   }, 
-{
-    filename: "106.jpg",
-    title: "Imagine that Hamas-ISIS has infiltrated your village, murdered you friends, family and kidnapped you days before giving birth. #23shager #standwithisrael #HamasisISIS #WomanRights Credit:@EllaTravelsLove",
-    tags: ["InnocentChildren", "bringthemhome", "WomanRights" ,"ellakenan" ],
-    category: "Influencers"
-  }, 
+
 {
     filename: "107.jpg",
     title: "An Israeli woman, in the last weeks of her final trimester, was kidnapped to Gaza on October 7th and had to give birth while in captivity. #23shager #standwithisrael #HamasisISIS #WomanRights Credit:@EllaTravelsLove",
@@ -786,12 +744,6 @@ export const posts = [
   },
 
 
-{
-    filename: "406.jpg",
-    title: "Violence creates more violence. Education to violence leads to more violence…#23shager Credit: @yosephhaddad",
-    tags: ["StandWithIsrael", "FreeGazaFromHamas", "violence", "YosephHaddad"],
-    category: "Influencers"
-  },
 
 
 {
@@ -807,12 +759,6 @@ export const posts = [
     filename: "407.jpg",
     title: "Knowing in advance about the planned massacre and not doing anything to stop it is a war crime! Blood on your hands! You call yourself Journalists? Shame on you!#23shager Credit: @yosephhaddad",
     tags: ["StandWithIsrael", "WarCrimes", "HumanRights", "YosephHaddad"],
-    category: "Influencers"
-  },
-  {
-    filename: "201.png",
-    title: "Israel Explained. #23shager Credit:@noatishby",
-    tags: ["StandWithIsrael", "TheNewYorkTimes", "NoaTishby"],
     category: "Influencers"
   },
 
@@ -837,14 +783,6 @@ export const posts = [
     filename: "204.png",
     title: "BBC fake it till you make it. #23shager Credit:@noatishby",
     tags: ["StandWithIsrael", "MediaBias","NoaTishby"],
-    category: "Influencers"
-  },
-
-
-{
-    filename: "205.png",
-    title: "Anti-Zionism = Antisemitism. #23shager Credit:@noatishby",
-    tags: ["StandWithIsrael", "StopAntisemitism","NoaTishby"],
     category: "Influencers"
   },
 
@@ -943,11 +881,7 @@ export const posts = [
   },
 
 
-{
-    filename: "508.jpg",
-    title: "Emily is in Home 💙 #23shager #StandWithIsrael #BRINGALLOFTHEMHOME #InnocentChildren",
-    tags: ["StandWithIsrael", "BRINGALLOFTHEMHOME", "InnocentChildren"],
-  },
+
 
 
 {
@@ -993,24 +927,6 @@ export const posts = [
     tags: ["StandWithIsrael", "IsraeliWomen", "IsraelWar", "IsraelFightsBack", "WeLoveIDF", "swordsofiron"],
   },
 
-{
-    filename: "93.jpg",
-    title: "15 yrs. old Hamas Terrorist #23shager #StandWithIsrael #HamasTerrorAcademy #HamasIsCancer #tError #HamasTerrorists #ChildrenRights",
-    tags: ["StandWithIsrael", "HamasTerrorAcademy", "HamasIsCancer", "tError", "HamasTerrorists", "ChildrenRights"],
-  },
-{
-    filename: "94.jpg",
-    title: "Finally, She is in Home 💙 #23shager #StandWithIsrael #BRINGALLOFTHEMHOME #Hostages #IsraelWar #swordsofiron",
-    tags: ["StandWithIsrael", "BRINGALLOFTHEMHOME", "Hostages", "IsraelWar", "swordsofiron"],
-  },
-
-
-{
-    filename: "95.jpg",
-    title: "Thank God 💙 #23shager #StandWithIsrael #BRINGALLOFTHEMHOME #Hostages #IsraelWar #swordsofiron",
-    tags: ["StandWithIsrael", "BRINGALLOFTHEMHOME", "Hostages", "IsraelWar", "swordsofiron"],
-  },
-
 
 {
     filename: "96.jpg",
@@ -1030,13 +946,6 @@ export const posts = [
     filename: "98.jpg",
     title: "The New #British Soldier #23shager #StandWithIsrael #UK #TheWestIsNext #LiberalValues",
     tags: ["StandWithIsrael", "British", "UK", "TheWestIsNext", "LiberalValues"],
-  },
-
-
-{
-    filename: "99.jpg",
-    title: "Shameless Terrorist Doll #23shager #StandWithIsrael #IsraelFightsBack #IsraeliWomen #HamasTerrorists #HamasIsCancer",
-    tags: ["StandWithIsrael", "IsraelFightsBack", "IsraeliWomen", "HamasTerrorists", "HamasIsCancer"],
   },
 
 
