@@ -8,6 +8,13 @@ export const LANGUAGE = {
 };
 
 export const posts = [
+{
+    filename: "2000.png",
+    category: "IronLinks",
+    title: "Israel's White Colonizers? My dad, Shaul, is Middle Eastern, Baghdad-born and his first language was Arabic. Some of you already heard this shpiel, but it's worth a refresh. https://www.linkedin.com/posts/ashleyaboodi_israels-white-colonizers-my-dad-shaul-activity-7156398392250621952-4zlN?utm_source=share&utm_medium=member_desktop Credit: @AshleyAboodi",
+    tags: ["StandWithIsrael", "IronLinks", "WhiteColonizers", "Propagaza"],
+  },
+
   {
     filename: "1.jpg",
     title: "Who is the villain? #23shager",
@@ -1325,6 +1332,7 @@ export const posts = [
     title: "Look! It’s a Rainbo..ohhh  #2-3-sha-ger #StandWithIsrael  #HamasTerrorists #IranTerrorist #RadicalIslam Credit: @J.Majburd",
     tags: ["StandWithIsrael", "HamasTerrorists", "IranTerrorist", "RadicalIslam"],
   },
+
 ];
 export const getTags = () => {
   const allTags = _.uniq(_.flatMap(posts.map((post) => post.tags)));
