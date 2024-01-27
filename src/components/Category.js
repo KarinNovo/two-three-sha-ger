@@ -14,7 +14,7 @@ const Category = ({ onCategorySelected }) => {
     "Media and Public Perception",
     "Terrorism and Security",
     "International Conflict",
-   "IronLinks🔗",
+    "IronLinks🔗",
     
   ];
 
