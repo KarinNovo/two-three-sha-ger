@@ -10,7 +10,7 @@ export const LANGUAGE = {
 export const posts = [
 {
     filename: "2000.png",
-    category: "IronLinks",
+    category: "IronLinks🔗",
     title: "Israel's White Colonizers? My dad, Shaul, is Middle Eastern, Baghdad-born and his first language was Arabic. Some of you already heard this shpiel, but it's worth a refresh. https://www.linkedin.com/posts/ashleyaboodi_israels-white-colonizers-my-dad-shaul-activity-7156398392250621952-4zlN?utm_source=share&utm_medium=member_desktop Credit: @AshleyAboodi",
     tags: ["StandWithIsrael", "IronLinks", "WhiteColonizers", "Propagaza"],
   },
