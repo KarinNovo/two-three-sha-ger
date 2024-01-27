@@ -16,7 +16,7 @@ export const posts = [
   },
 
   {
-    filename: "2001.jpeg",
+    filename: "2001.jpg",
     category: "IronLinks",
     title: "Me, fitting the white colonialist hashtag#propagaza profile? My heritage is a cocktail of Israeli, Yemenite, Polish, and Jewish ✡️ identities.Credit: @KarinHasonNovo https://www.linkedin.com/posts/karin-hason-novo_propagaza-activity-7150740174828666881-wHYM?utm_source=share&utm_medium=member_desktop",
     tags: ["StandWithIsrael", "IronLinks", "WhiteColonizers", "Propagaza"],

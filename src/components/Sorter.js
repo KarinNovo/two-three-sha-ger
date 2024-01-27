@@ -15,7 +15,8 @@ export default function Sorter({ onCategorySelected, sortSelected }) {
     "Media and Public Perception",
     "Terrorism and Security",
     "International Conflict",
-    "Influencers"
+    "Influencers",
+    "IronLinks",
   ];
 
   const handleSelect = (e) => {
