@@ -11,9 +11,17 @@ export const posts = [
 {
     filename: "2000.png",
     category: "IronLinks",
-    title: "Israel's White Colonizers? My dad, Shaul, is Middle Eastern, Baghdad-born and his first language was Arabic. Some of you already heard this shpiel, but it's worth a refresh. https://www.linkedin.com/posts/ashleyaboodi_israels-white-colonizers-my-dad-shaul-activity-7156398392250621952-4zlN?utm_source=share&utm_medium=member_desktop Credit: @AshleyAboodi",
+    title: "Israel's White Colonizers? My dad, Shaul, is Middle Eastern, Baghdad-born and his first language was Arabic. Some of you already heard this shpiel, but it's worth a refresh. Credit: @AshleyAboodi https://www.linkedin.com/posts/ashleyaboodi_israels-white-colonizers-my-dad-shaul-activity-7156398392250621952-4zlN?utm_source=share&utm_medium=member_desktop",
     tags: ["StandWithIsrael", "IronLinks", "WhiteColonizers", "Propagaza"],
   },
+
+  {
+    filename: "2001.jpeg",
+    category: "IronLinks",
+    title: "Me, fitting the white colonialist hashtag#propagaza profile? My heritage is a cocktail of Israeli, Yemenite, Polish, and Jewish ✡️ identities.Credit: @KarinHasonNovo https://www.linkedin.com/posts/karin-hason-novo_propagaza-activity-7150740174828666881-wHYM?utm_source=share&utm_medium=member_desktop",
+    tags: ["StandWithIsrael", "IronLinks", "WhiteColonizers", "Propagaza"],
+  },
+
 
   {
     filename: "1.jpg",
