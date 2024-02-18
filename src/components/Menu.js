@@ -20,7 +20,7 @@ function Menu() {
       <div className="navbar-content" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           {/* Hostage Counter */}
           <div style={{ fontSize: "20px", margin: '5px' }}>
-            <strong>136</strong>
+            <strong>134</strong>
             <div> Hostages in Gaza </div>
           </div>
 
